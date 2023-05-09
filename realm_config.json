@@ -4,5 +4,6 @@
     "name": "cdn",
     "location": "US-VA",
     "provider_region": "aws-us-east-1",
-    "deployment_model": "LOCAL"
+    "deployment_model": "LOCAL",
+    "environment": "development"
 }
